@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/asoto01/react-coding-challenge/issues"
   },
-  "homepage": "https://github.com/asoto01/react-coding-challenge#readme"
+  "homepage": "https://github.com/asoto01/react-coding-challenge#readme",
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
 }
